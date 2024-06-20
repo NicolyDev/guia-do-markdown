@@ -68,3 +68,5 @@ pra saber o nome dos emojis [clique aqui](https://github.com/ikatyang/emoji-chea
 pra colocar um emoji em um título acesse [emojipedia](https://emojipedia.org/)
 
 depois copie seu emoji e cole no título!
+
+espero que tenha te ajudado!
